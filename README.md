@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kenegocios/ads)
+
 ## Ke Negócios ADS
 Você pode usar o [https://kenegocios.github.io/ads/] (https://github.com/kenegocios/ads/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos Markdown.
 
