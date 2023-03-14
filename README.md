@@ -1,6 +1,6 @@
 ## Ke Negócios ADS
 Você pode usar o [https://kenegocios.github.io/ads/] (https://github.com/kenegocios/ads/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos Markdown.
-
+## 
 ## Markdown
 O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita. Inclui convenções para
 
@@ -13,12 +13,12 @@ Bloco de código destacado da sintaxe
 - Com marcadores
 - Lista
 
-1. Numberedo
+1. Numerado
 2. Lista
 
 **Negrito** and _Italico_ and `Codigo` text
 
-[Link](url) and ![Image](src)
+[Link](https://kenegocios.github.io/ads/1616435767801.jpg) ![Image](https://kenegocios.github.io/ads/1616435767801.jpg)
 Para obter mais detalhes, consulte o GitHub Flavored Markdown.
 
 Temas de Jekyll
